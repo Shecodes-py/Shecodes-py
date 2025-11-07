@@ -2,10 +2,8 @@
 Backend Developer | Python | Django | Engineering Student passionate about building scalable systems <br>
 
 👋 Peace Udotong == Ella<br>
-
-✨ Community Lead @ PyClub UNILAG <br>
   
-🎯 Goals/Interests: Backend Developer<br>
+🎯 Backend Developer<br>
 
 💻 Skills (Languages, frameworks, tools):<br>
           Python- Django/Flask/FastAPI  <br>
