@@ -2,8 +2,6 @@
 Backend Developer | Python | Django | Engineering Student passionate about building scalable systems <br>
 
 👋 Peace Udotong == Ella<br>
-  
-🎯 Backend Developer<br>
 
 💻 Skills (Languages, frameworks, tools):<br>
           Python- Django/Flask/FastAPI  <br>
