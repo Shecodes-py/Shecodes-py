@@ -1,4 +1,4 @@
-# EllaUdotong<br>
+# Ella Udotong<br>
 Backend Developer | Python | Django | Engineering Student passionate about building scalable systems <br>
 
 👋 Peace Udotong == Ella<br>
